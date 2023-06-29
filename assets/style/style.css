@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral&display=swap');
+
+body{
+    font-family: 'Spectral', serif !important;
+    margin:0;
+}
+
+/* header */
+button img{
+    width:3em;
+}
+
+    
+.online{
+    transform: translate(-90%,-90%)!important;
+}
+
+
+/* hero */
+
+.container{
+    max-width: 100%!important;
+}
+
+.one{
+    background-color: #754FFE;
+}
+
+
+/* ASIDE */
+.giveflex{
+    display: flex!important;
+    flex-direction: column!important;
+    justify-content: space-between!important;
+}
+
